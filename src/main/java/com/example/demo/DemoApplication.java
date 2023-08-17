@@ -8,6 +8,7 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         System.out.println("hotfix second");
+        System.out.println("push");
         SpringApplication.run(DemoApplication.class, args);
     }
 
